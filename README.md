@@ -1,6 +1,6 @@
 # NATURAL LANGUAGE PROCESSING
 # From-Words-To-Insights
-## An In-depth Analysis of AI Technology Using Natural Language Processing
+## Unstructured Text Analysis for Anticipating AI shift in Job Industry
 
 This project presents a comprehensive analysis of the current state of AI technology and its prospective impacts on various industries, jobs, and the overall workforce, by analyzing a corpus of around 200,000 news articles.
 
